@@ -14,7 +14,7 @@ font-weight:bold">
 </span>
 </center>
 
-<center>BAEWHA WOMEN'S UNIVERSITY/center>
+<center>BAEWHA WOMEN'S UNIVERSITY</center>
 
 <center> Seoul, Republic of Korea</center>
 
@@ -24,7 +24,7 @@ font-weight:bold">
 
 > 연락처: baozhi0112@gmail.com
 
-> Github : <a href="https://github.com/nakorita">https://github.com/nakorita</a>
+> Github : <a href="https://github.com/nakorita">https://github.com/nakorita</a><br>
 
 
 ## Education
